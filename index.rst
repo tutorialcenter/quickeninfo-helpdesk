@@ -1,18 +1,12 @@
 Step-by-Step Guide to Download and Install Quicken on your Device
-
 ===============================
-
-
+Are you looking for a simple and secure `quicken download <https://www.quicken.com/download>`_? Whether you’re managing personal expenses or small business finances, Quicken is a powerful tool that helps you track income, expenses, budgets, and more. This detailed step-by-step guide will walk you through the Quicken download and installation process for both Windows and Mac devices.
 
 .. image:: get-start-button.png
    :alt: Quicken download
-   :target:  
+   :target:   
    :align: center
 
-Step-by-Step Guide to Download and Install Quicken on Your Device
-==================================================================
-
-Are you ready to take control of your finances? Whether you're managing personal expenses or small business accounts, **Quicken** is a powerful tool that helps you track income, expenses, budgets, and more. This detailed step-by-step guide will walk you through the **Quicken download** and installation process for Windows and Mac devices.
 
 Why Choose Quicken?
 -------------------
