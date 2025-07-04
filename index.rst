@@ -4,7 +4,7 @@ Are you looking for a simple and secure `quicken download <https://www.quicken.c
 
 .. image:: get-start-button.png
    :alt: Quicken download
-   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuaW5mby1oZWxwZGVzay5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/wwwquicken-download/
    :align: center
 
 
